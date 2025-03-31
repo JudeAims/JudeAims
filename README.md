@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JudeAims
+- 👋 Hi, I’m Jude Carter (@JudeAims)
 - 👀 I’m interested in System Programming
-- 🌱 I’m currently learning System Programming with C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 JavaScript, C++, Python, PHP
+- 💞️ I love collaboration
 - 📫 How to reach me https://www.linkedin.com/in/Judeaims
 
 <!---
